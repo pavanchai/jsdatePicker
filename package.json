@@ -4,8 +4,8 @@
   "description": "",
   "main": "datepic.js",
   "scripts": {
-    "start": "parcel datepic.html",
-    "build": "parcel build datepic.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
